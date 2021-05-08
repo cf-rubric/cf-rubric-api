@@ -6,6 +6,8 @@ authors = ["ALAN KARLO MANGUBAT <karlomangubat92@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+Django = "^3.2.2"
+django-environ = "^0.4.5"
 
 [tool.poetry.dev-dependencies]
 
