@@ -16,7 +16,6 @@ class Criteria:
 
 
     
-
 def report_gen():
     _report = list()
 
